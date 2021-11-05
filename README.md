@@ -24,4 +24,4 @@ Profile: https://github.com/darkracer3010
 <br>
 The fucntion and processing of the data, users to be stored is managed by user @MdNihalShareef
 <br>
-Profile: https://www.githib.com/MdNihalShareef
+Profile: https://www.github.com/MdNihalShareef
