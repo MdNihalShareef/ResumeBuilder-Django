@@ -1,5 +1,5 @@
 # ResumeBuilder-Django
-## Minimum specs required to run the application
+## Minimum specifications required to run the application
 Python to be installed
 <br>
 Django library to be installed
