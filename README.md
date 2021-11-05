@@ -23,6 +23,6 @@ The design of UI-  the web pages design was made by the user @darkracer3010
 <br>
 Profile: https://github.com/darkracer3010
 <br>
-The fucntion and processing of the data, users to be stored is managed by user @MdNihalShareef
+The function and processing of the data, users to be stored is managed by user @MdNihalShareef
 <br>
 Profile: https://www.github.com/MdNihalShareef
