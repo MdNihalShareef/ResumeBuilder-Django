@@ -21,6 +21,7 @@ Then the server will be running at the given url
 ### https://127.0.0.1:8000
 <br>
 ## Contributions
+<br>
 The design of UI-  the web pages design was made by the user @darkracer3010
 <br>
 Profile: https://github.com/darkracer3010
