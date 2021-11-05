@@ -17,4 +17,13 @@ Run the following command
 ### python manage.py runserver
 <br>
 Then the server will be running at the given url 
+<br>
 ### https://127.0.0.1:8000
+## Contributions
+The design of UI-  the web pages design was made by the user @darkracer3010
+<br>
+Profile: https://github.com/darkracer3010
+<br>
+The fucntion and processing of the data, users to be stored is managed by user @MdNihalShareef
+<br>
+Profile: https://www.githib.com/MdNihalShareef
