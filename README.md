@@ -16,9 +16,7 @@ Run the following command
 <br>
 ### python manage.py runserver
 <br>
-Then the server will be running at the given url 
-<br>
-### https://127.0.0.1:8000
+Then the server will be running at the url - https://127.0.0.1:8000
 <br>
 ## Contributions
 <br>
