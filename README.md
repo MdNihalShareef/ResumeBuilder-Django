@@ -19,11 +19,3 @@ Run the following commands
 ### python manage.py runserver
 Then the server will be running at the url - https://127.0.0.1:8000
 <br>
-## Contributions
-The design of UI-  the web pages design was made by the user @darkracer3010
-<br>
-Profile: https://github.com/darkracer3010
-<br>
-The function and processing of the data, users to be stored is managed by user @MdNihalShareef
-<br>
-Profile: https://www.github.com/MdNihalShareef
